@@ -14,7 +14,7 @@ ini_set('display_errors', 'On');
  *
  *     development
  *     testing
- *     production
+ *     production1
  *
  * NOTE: If you change these, also change the error_reporting() code below
  *
