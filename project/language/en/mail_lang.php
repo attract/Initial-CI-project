@@ -1,0 +1,47 @@
+<?php
+
+$lang['hello'] = "Hello";
+$lang['sincerely'] = "Sincerely, Oldsport.ru";
+$lang['all_rights'] = '© 2011 - 2012 All rights reserved Company "Oldsport"';
+$lang['mail_title'] = "SPORT";
+$lang['in_page_your_lot'] = "On the page of your lots";
+$lang['add_a_comment'] = "add a comment";
+$lang['comment_on_Lot'] = "comment on the Lot";
+$lang['On_page_Lot'] = "On page Lot";
+$lang['You_can_watch_it_on_the_link'] = "You can watch it on the link";
+$lang['You_bought_the_lot'] = "You bought the lot";
+$lang['Seller'] = "Seller";
+$lang['if_fail_sale'] = "If the fault of the seller you can not buy a lot, please let us know";
+$lang['wish_good_shopping'] = "We wish you good shopping at Oldsport.ru!";
+$lang['Your_lot'] = "Your lot";
+$lang['sold_out'] = "sold out";
+$lang['buyer'] = "Buyer";
+$lang['if_fail_buyer'] = "If the fault of the buyer your item will not be bought, please let us know";
+$lang['You_can_perevystavit'] = "You can also perevystavit in his";
+$lang['Private_office'] = "Private_office";
+$lang['On_your_lot'] = "On your lot";
+$lang['added_rate'] = "added to the rate";
+$lang['sold_out_stop_price'] = "sold out by stop price";
+$lang['by_stop_price'] = "by stop price";
+$lang['You_put_a_bet'] = "You put a bet";
+$lang['on_lot'] = "on lot";
+$lang['Playing_your_bid'] = "Playing your bid";
+$lang['you_are_winner'] = "You are winner of the auction by lot";
+$lang['Term_Auction_Sales'] = "Term Auction Sales";
+$lang['end_srok'] = "ends, you can extend it to";
+$lang['Your_bid'] = "Your bid is";
+$lang['broken_rate'] = "broken, in order to continue the bidding, please click here";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+?>

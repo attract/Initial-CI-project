@@ -1,0 +1,26 @@
+#loading_overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+#loading_overlay .loading_message {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #FFFFFF;
+    color: #333333;
+    font-weight: bold;
+    height: 25px;
+    left: 50%;
+    line-height: 25px;
+    margin-left: -37px;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    padding: 3px;
+    border-radius: 0 0 3px 3px;
+}
